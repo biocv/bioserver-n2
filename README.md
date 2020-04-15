@@ -7,7 +7,7 @@ The BioServer-N2 mini-server can be used as back-end server for facial recogniti
 
 ## Specifications
 Maximum Capacity: 50,000 faces </br>
-Dimensions: 210*115*45 mm </br>
+Dimensions: 210 x 115 x 45 mm </br>
 Recognition Speed: 20 pictures / second </br>
 Minimum Face Size for Recognition: 70*70 pixel </br>
 Facial Recognition Accuracy Rate: 98.5% </br>
