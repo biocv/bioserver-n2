@@ -1,4 +1,4 @@
-# BioServer-N2
+# FaceKiosk-N1
 
 The micro server of visable light face recognition.
 
